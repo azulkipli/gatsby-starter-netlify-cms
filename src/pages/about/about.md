@@ -3,12 +3,7 @@ templateKey: about-page
 path: /about
 title: About
 ---
-### About this site
 
-Codesaga is my coding stories about technology stacks that I learned.
-
-### Who am I
-
-I am Acep Zulkipli (azul), I have been working on micro services using PHP, Python, NodeJS stacks. And client side stack ReactJS, Redux, Mobx.
+Codesaga is my coding stories about technology stacks. PHP, MySQL, Javascript, NodeJS, ReactJS, ReactNative, Python and more to come alongside with my journey.
 
 ###
